@@ -1,4 +1,5 @@
-# co5b74c5b8431ce4e4271f94f
+# Scrimba - Learn JavaScript
+# First Project - Workout Counter
 
 Quick start:
 
