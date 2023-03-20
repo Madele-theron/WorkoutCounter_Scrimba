@@ -1,5 +1,5 @@
 # Scrimba - Learn JavaScript
-# First Project - Workout Counter
+## First Project - Workout Counter 🏋️
 
 Quick start:
 
